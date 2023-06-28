@@ -24,19 +24,6 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
 
-## Acceptance Criteria
-
-
-Certainly! Here's the README written in code format:
-
-markdown
-Copy code
-# Object-Relational Mapping (ORM) Challenge: E-commerce Back End
-
-## Introduction
-
-This project aims to build the back end for an e-commerce site by configuring a working Express.js API to use Sequelize for interacting with a MySQL database. The goal is to create a robust and efficient back end that enables an internet retail company to compete with other e-commerce businesses.
-
 ## Table of Contents
 
 - Introduction
@@ -49,15 +36,6 @@ This project aims to build the back end for an e-commerce site by configuring a 
 - Contributing
 - License
 - Contact
-
-## User Story
-
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
-
-shell
-Copy code
 
 ## Acceptance Criteria
 
