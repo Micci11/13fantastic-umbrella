@@ -102,6 +102,11 @@ The following technologies were used in the development of this project:
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Resources
+
+- [Stack Overflow](https://stackoverflow.com): A question and answer website used for troubleshooting and finding solutions to coding-related issues.
+- [Chat GPT](https://www.openai.com/chatgpt/): An AI language model used for generating responses and providing assistance during the development process.
+
 ## Contact
 
 For any inquiries or feedback, please contact us at miccibenner@gmail.com
